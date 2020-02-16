@@ -6,3 +6,5 @@ out.txt
 *.class
 *.exe
 *.o
+
+.DS_Store
